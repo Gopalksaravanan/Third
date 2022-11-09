@@ -13,7 +13,13 @@ public class GidThird {
 		System.out.println("Third");
 	}
 	
+	public void method4() {
+		System.out.println("Third");
+	}
 	
+	public void method5() {
+		System.out.println("Third");
+	}
 	
 	
 	
