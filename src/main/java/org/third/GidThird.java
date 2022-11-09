@@ -21,6 +21,10 @@ public class GidThird {
 		System.out.println("Third");
 	}
 	
+	public void method6() {
+		System.out.println("Third");
+	}
+	
 	
 	
 }
